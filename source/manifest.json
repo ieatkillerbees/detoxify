@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Detoxify",
-  "description": "A cleanse for the intertubes",
+  "description": "It's like a juice cleanse for the Internets",
   "version": "1.0",
   "content_scripts": [
     {
